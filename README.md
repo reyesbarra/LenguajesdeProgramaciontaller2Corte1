@@ -1,0 +1,2 @@
+# LenguajesdeProgramaciontaller2Corte1
+Diagrama de arquitectura del proyecto Learning4all
